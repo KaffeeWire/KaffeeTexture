@@ -1,0 +1,124 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "cover_right",
+			"id": "cover_right",
+			"invertAxis": "xy",
+			"translate": [-1, -5, 0],
+			"boxes": [
+				{
+					"coordinates": [1, 0, 0, 5.5, 10, 0.5],
+					"uvNorth": [0, 0, 5, 10],
+					"uvEast": [11, 0, 12, 10],
+					"uvSouth": [7, 0, 12, 10],
+					"uvWest": [7, 0, 8, 10],
+					"uvUp": [7, 0, 12, 1],
+					"uvDown": [7, 9, 12, 10]
+				}
+			]
+		},
+		{
+			"part": "cover_left",
+			"id": "cover_left",
+			"invertAxis": "xy",
+			"translate": [1, -5, 0],
+			"boxes": [
+				{
+					"coordinates": [-6.5, 0, 0, 5.5, 10, 0.5],
+					"uvNorth": [17, 0, 22, 10],
+					"uvEast": [26, 0, 27, 10],
+					"uvSouth": [22, 0, 27, 10],
+					"uvWest": [22, 0, 23, 10],
+					"uvUp": [22, 0, 27, 1],
+					"uvDown": [22, 9, 27, 10]
+				}
+			]
+		},
+		{
+			"part": "pages_right",
+			"id": "pages_right",
+			"invertAxis": "xy",
+			"translate": [-5, -5, 0.2],
+			"boxes": [
+				{
+					"coordinates": [0, 0.5, -1.1, 5, 9, 1],
+					"uvNorth": [1, 11, 6, 19],
+					"uvEast": [0, 11, 1, 19],
+					"uvSouth": [7, 11, 12, 19],
+					"uvWest": [6, 11, 7, 19],
+					"uvUp": [6, 11, 1, 10],
+					"uvDown": [11, 10, 6, 11]
+				}
+			]
+		},
+		{
+			"part": "pages_left",
+			"id": "pages_left",
+			"invertAxis": "xy",
+			"translate": [0, -5, 1],
+			"boxes": [
+				{
+					"coordinates": [-5, 0.5, -1.1, 5, 9, 1],
+					"uvNorth": [13, 11, 18, 19],
+					"uvEast": [12, 11, 13, 19],
+					"uvSouth": [19, 11, 24, 19],
+					"uvWest": [18, 11, 19, 19],
+					"uvUp": [18, 11, 13, 10],
+					"uvDown": [23, 10, 18, 11]
+				}
+			]
+		},
+		{
+			"part": "flipping_page_right",
+			"id": "flipping_page_right",
+			"invertAxis": "xy",
+			"translate": [-5, -5, 2.2],
+			"boxes": [
+				{
+					"coordinates": [0, 0.5, -2.1, 5, 9, 0],
+					"uvNorth": [24, 10, 29, 18],
+					"uvEast": [24, 20, 24, 28],
+					"uvSouth": [29, 10, 34, 18],
+					"uvWest": [29, 20, 29, 28],
+					"uvUp": [29, 20, 24, 20],
+					"uvDown": [34, 20, 29, 20]
+				}
+			]
+		},
+		{
+			"part": "flipping_page_left",
+			"id": "flipping_page_left",
+			"invertAxis": "xy",
+			"translate": [0, -5, 2],
+			"boxes": [
+				{
+					"coordinates": [-5, 0.5, -2.1, 5, 9, 0],
+					"uvNorth": [24, 10, 29, 18],
+					"uvEast": [24, 20, 24, 28],
+					"uvSouth": [29, 10, 34, 18],
+					"uvWest": [29, 20, 29, 28],
+					"uvUp": [29, 20, 24, 20],
+					"uvDown": [34, 20, 29, 20]
+				}
+			]
+		},
+		{
+			"part": "book_spine",
+			"id": "book_spine",
+			"invertAxis": "xy",
+			"translate": [0, -5, 0],
+			"boxes": [
+				{
+					"coordinates": [-1.5, 0, -0.5, 3, 10, 0.5],
+					"uvNorth": [64, 20, 60, 30],
+					"uvEast": [63, 20, 64, 30],
+					"uvSouth": [60, 20, 64, 30],
+					"uvWest": [60, 20, 61, 30],
+					"uvUp": [56, 19, 60, 20],
+					"uvDown": [56, 30, 60, 31]
+				}
+			]
+		}
+	]
+}

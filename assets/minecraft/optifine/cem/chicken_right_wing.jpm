@@ -1,0 +1,37 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/reimagined_chicken/chicken",
+	"submodels": [
+		{
+			"id": "right_wing",
+			"rotate": [15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1, 0.25, -0.6, 1, 4, 6],
+					"uvNorth": [30, 19, 31, 23],
+					"uvEast": [24, 19, 30, 23],
+					"uvSouth": [37, 19, 38, 23],
+					"uvWest": [31, 19, 37, 23],
+					"uvUp": [31, 19, 30, 13],
+					"uvDown": [32, 13, 31, 19]
+				}
+			]
+		},
+		{
+			"id": "right_wing",
+			"rotate": [15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1.5, 0.75, -1.6, 1, 4, 6],
+					"uvNorth": [43, 13, 44, 17],
+					"uvEast": [37, 13, 43, 17],
+					"uvSouth": [50, 13, 51, 17],
+					"uvWest": [45, 13, 51, 17],
+					"uvUp": [44, 13, 43, 7],
+					"uvDown": [45, 7, 44, 13]
+				}
+			]
+		}
+	]
+}

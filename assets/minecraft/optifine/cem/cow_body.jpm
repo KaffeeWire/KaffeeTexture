@@ -1,0 +1,25 @@
+{
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/reimagined_cow/cow",
+	"boxes": [
+		{
+			"coordinates": [-6, -10, -2, 12, 18, 10],
+			"uvNorth": [30, 15, 42, 33],
+			"uvEast": [20, 15, 30, 33],
+			"uvSouth": [52, 15, 64, 33],
+			"uvWest": [42, 15, 52, 33],
+			"uvUp": [42, 15, 30, 5],
+			"uvDown": [54, 5, 42, 15]
+		},
+		{
+			"coordinates": [-2, 2, -3, 4, 6, 1],
+			"uvNorth": [55, 2, 59, 8],
+			"uvEast": [54, 2, 55, 8],
+			"uvSouth": [60, 2, 64, 8],
+			"uvWest": [59, 2, 60, 8],
+			"uvUp": [59, 2, 55, 1],
+			"uvDown": [63, 1, 59, 2]
+		}
+	]
+}

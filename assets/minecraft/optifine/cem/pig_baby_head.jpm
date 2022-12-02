@@ -1,0 +1,34 @@
+{
+	"textureSize": [64, 64],
+	"texture": "textures/entity/reimagined_pig/pig",
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-8, -12, -14, 16, 16, 16],
+			"uvNorth": [8, 8, 16, 16],
+			"uvEast": [0, 8, 8, 16],
+			"uvSouth": [24, 8, 32, 16],
+			"uvWest": [16, 8, 24, 16],
+			"uvUp": [16, 8, 8, 0],
+			"uvDown": [24, 0, 16, 8]
+		},
+		{
+			"coordinates": [-4, -14, -12, 10, 2, 12],
+			"uvNorth": [48, 6, 53, 7],
+			"uvEast": [42, 6, 48, 7],
+			"uvSouth": [59, 6, 64, 7],
+			"uvWest": [53, 6, 59, 7],
+			"uvUp": [53, 6, 48, 0],
+			"uvDown": [58, 0, 53, 6]
+		},
+		{
+			"coordinates": [-8.5, -12.5, -14.5, 17, 17, 17],
+			"uvNorth": [40, 56, 48, 64],
+			"uvEast": [32, 56, 40, 64],
+			"uvSouth": [56, 56, 64, 64],
+			"uvWest": [48, 56, 56, 64],
+			"uvUp": [48, 56, 40, 48],
+			"uvDown": [56, 48, 48, 56]
+		}
+	]
+}

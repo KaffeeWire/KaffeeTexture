@@ -1,0 +1,61 @@
+{
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/reimagined_chicken/chicken",
+	"boxes": [
+		{
+			"coordinates": [-2, -5, -1, 4, 6, 3],
+			"uvNorth": [3, 3, 7, 9],
+			"uvEast": [0, 3, 3, 9],
+			"uvSouth": [10, 3, 14, 9],
+			"uvWest": [7, 3, 10, 9],
+			"uvUp": [7, 3, 3, 0],
+			"uvDown": [11, 0, 7, 3]
+		},
+		{
+			"coordinates": [-1.5, -5, -2.5, 3, 4, 3],
+			"uvNorth": [4, 27, 7, 31],
+			"uvEast": [1, 27, 4, 31],
+			"uvSouth": [10, 27, 13, 31],
+			"uvWest": [7, 27, 10, 31],
+			"uvUp": [7, 27, 4, 24],
+			"uvDown": [10, 24, 7, 27]
+		},
+		{
+			"coordinates": [-1, -3, -3, 2, 1, 2],
+			"uvNorth": [16, 2, 18, 3],
+			"uvEast": [14, 2, 16, 3],
+			"uvSouth": [20, 2, 22, 3],
+			"uvWest": [18, 2, 20, 3],
+			"uvUp": [18, 2, 16, 0],
+			"uvDown": [20, 0, 18, 2]
+		},
+		{
+			"coordinates": [-1, -3, -4, 2, 1, 2],
+			"uvNorth": [54, 2, 56, 3],
+			"uvEast": [52, 2, 54, 3],
+			"uvSouth": [58, 2, 60, 3],
+			"uvWest": [56, 2, 58, 3],
+			"uvUp": [56, 2, 54, 0],
+			"uvDown": [58, 0, 56, 2]
+		},
+		{
+			"coordinates": [-0.5, -2, -2, 1, 2, 2],
+			"uvNorth": [16, 6, 17, 8],
+			"uvEast": [14, 6, 16, 8],
+			"uvSouth": [19, 6, 20, 8],
+			"uvWest": [17, 6, 19, 8],
+			"uvUp": [17, 6, 16, 4],
+			"uvDown": [18, 4, 17, 6]
+		},
+		{
+			"coordinates": [-0.5, -6, -1.5, 1, 3, 4],
+			"uvNorth": [30, 28, 31, 31],
+			"uvEast": [26, 28, 30, 31],
+			"uvSouth": [35, 28, 36, 31],
+			"uvWest": [31, 28, 35, 31],
+			"uvUp": [31, 28, 30, 24],
+			"uvDown": [32, 24, 31, 28]
+		}
+	]
+}

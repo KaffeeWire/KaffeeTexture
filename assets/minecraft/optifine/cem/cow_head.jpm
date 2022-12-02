@@ -1,0 +1,97 @@
+{
+	"texture": "cow9",
+	"textureSize": [64, 64],
+	"credit": "Made with Blockbench",
+	"texture": "textures/entity/reimagined_cow/cow",
+	"boxes": [
+		{
+			"coordinates": [-4, -4, -6, 8, 8, 7],
+			"uvNorth": [7, 7, 15, 15],
+			"uvEast": [0, 7, 7, 15],
+			"uvSouth": [22, 7, 30, 15],
+			"uvWest": [15, 7, 22, 15],
+			"uvUp": [15, 7, 7, 0],
+			"uvDown": [23, 0, 15, 7]
+		},
+		{
+			"coordinates": [4, -4.75, -3, 1, 3, 1],
+			"uvNorth": [24, 2, 25, 5],
+			"uvEast": [23, 2, 24, 5],
+			"uvSouth": [26, 2, 27, 5],
+			"uvWest": [25, 2, 26, 5],
+			"uvUp": [25, 2, 24, 1],
+			"uvDown": [26, 1, 25, 2]
+		},
+		{
+			"coordinates": [-5, -4.75, -3, 1, 3, 1],
+			"uvNorth": [24, 2, 25, 5],
+			"uvEast": [23, 2, 24, 5],
+			"uvSouth": [26, 2, 27, 5],
+			"uvWest": [25, 2, 26, 5],
+			"uvUp": [25, 2, 24, 1],
+			"uvDown": [26, 1, 25, 2]
+		}
+	],
+	"submodels": [
+		{
+			"id": "rightear",
+			"rotate": [20, 0, 20],
+			"boxes": [
+				{
+					"coordinates": [2.75, -4.5, -2.75, 3, 2, 1],
+					"uvNorth": [12, 47, 15, 49],
+					"uvEast": [11, 47, 12, 49],
+					"uvSouth": [16, 47, 19, 49],
+					"uvWest": [15, 47, 16, 49],
+					"uvUp": [15, 47, 12, 46],
+					"uvDown": [18, 46, 15, 47]
+				}
+			]
+		},
+		{
+			"id": "leftear",
+			"rotate": [20, 0, -20],
+			"boxes": [
+				{
+					"coordinates": [-5.75, -4.5, -2.75, 3, 2, 1],
+					"uvNorth": [1, 47, 4, 49],
+					"uvEast": [0, 47, 1, 49],
+					"uvSouth": [5, 47, 8, 49],
+					"uvWest": [4, 47, 5, 49],
+					"uvUp": [4, 47, 1, 46],
+					"uvDown": [7, 46, 4, 47]
+				}
+			]
+		},
+		{
+			"id": "bone3",
+			"rotate": [10, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-3, -1.05, -8.9, 6, 3, 4],
+					"uvNorth": [4, 41, 10, 44],
+					"uvEast": [0, 41, 4, 44],
+					"uvSouth": [14, 41, 20, 44],
+					"uvWest": [10, 41, 14, 44],
+					"uvUp": [10, 41, 4, 37],
+					"uvDown": [16, 37, 10, 41]
+				}
+			]
+		},
+		{
+			"id": "bone3",
+			"rotate": [10, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-2.5, 1.95, -8.9, 5, 1, 4],
+					"uvNorth": [23, 37, 28, 38],
+					"uvEast": [19, 37, 23, 38],
+					"uvSouth": [32, 37, 37, 38],
+					"uvWest": [28, 37, 32, 38],
+					"uvUp": [28, 37, 23, 33],
+					"uvDown": [33, 33, 28, 37]
+				}
+			]
+		}
+	]
+}

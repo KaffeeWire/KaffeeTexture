@@ -1,0 +1,16 @@
+{
+	"textureSize": [64, 64],
+	"texture": "textures/entity/reimagined_pig/pig",
+	"credit": "Made with Blockbench",
+	"boxes": [
+		{
+			"coordinates": [-2, -6, -2.5, 4, 6, 4],
+			"uvNorth": [4, 20, 8, 26],
+			"uvEast": [0, 20, 4, 26],
+			"uvSouth": [12, 20, 16, 26],
+			"uvWest": [8, 20, 12, 26],
+			"uvUp": [8, 20, 4, 16],
+			"uvDown": [12, 16, 8, 20]
+		}
+	]
+}
